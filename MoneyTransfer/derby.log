@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 16 00:24:53 PDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-016b-f9ab-7946-0000099d3e60 
+on database directory /Users/sumandutta/Documents/Luna_Workspace/MoneyTransfer/db/moneytransfer  with class loader java.net.URLClassLoader@17f8886e 
+Loaded from file:/Users/sumandutta/.m2/repository/org/apache/derby/derby/10.8.3.0/derby-10.8.3.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_31-b13
+user.dir=/Users/sumandutta/Documents/Luna_Workspace/MoneyTransfer
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
