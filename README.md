@@ -1,6 +1,10 @@
 # Moneytransfer
 
+Requirement - 
+JDK 7 or above. Maven.
+
 Start the application:
+
 mvn exec:java
 
 To test out the application:-
